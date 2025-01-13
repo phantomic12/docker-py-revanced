@@ -8,6 +8,12 @@
       }
     ]
   },
+{
+  "patchName" : "Custom branding name for YouTube",
+  "options" : [ {
+    "key" : "AppName",
+    "value" : "YouTube ReVanced"
+  } ]
   {
     "patchName": "Custom branding name Reddit",
     "options": [
